@@ -5,7 +5,7 @@
 
 - 📄 CV: [Ricahrd CV.pdf](https://yourusername.github.io/assets/Resume.pdf)
 
-## Selected Projects
+## Projects
 - **Traffic Based Restaurant Recommender** · HTML, CSS, JavaScript, Google Maps API  
   Re-ranks POIs by live travel time. 22% lower avg estimated time difference on 150 trips.  
   Code: https://github.com/richardyeh7/richardproject
@@ -16,6 +16,6 @@
 
 ## Skills
 Python (PyTorch, sklearn), C++, C,  R (data.table), SQL, Git, LaTeX  
-Coursework: Algorithms, Machine Learning, Deep Learning, Databases
+Coursework: Algorithms, Machine Learning, Data Structure, Computer Networks, Operating Systems, Computer Organizations, Linear Algebra, Calculus, Probability, Deep Learning, Databases
 
 > Currently applying to graduate programs to deepen my foundations and ship interpretable, deployable systems.
