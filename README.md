@@ -1,17 +1,16 @@
 # richardyeh7.github.io
-# Y
+# Richard Yeh
 
 **Prospective Graduate Student** 
 
-- 🌐 Portfolio: https://richardyeh7.github.io
 - 📄 CV: [Ricahrd CV.pdf](https://yourusername.github.io/assets/Resume.pdf)
 
 ## Selected Projects
-- **Traffic-Aware Restaurant Recommender** · Python, Google Maps API  
-  Re-ranks POIs by live travel time. *22% lower avg ETA* on 150 trips.  
+- **Traffic Based Restaurant Recommender** · HTML, CSS, JavaScript, Google Maps API  
+  Re-ranks POIs by live travel time. 22% lower avg estimated time difference on 150 trips.  
   Code: https://github.com/richardyeh7/richardproject
 
-- **Chest X-ray Pneumonia Classifier (ResNet)** · PyTorch  
+- **Chest X-ray Image Pneumonia Classifier (ResNet)** · PyTorch  
   *90.9% accuracy / 93% F1*. Augmentation, early stopping, Grad-CAM.  
   Code: https://github.com/yourusername/cxr-resnet · [1-page](https://yourusername.github.io/assets/cxr-brief.pdf)
 
