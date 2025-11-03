@@ -9,7 +9,7 @@
 ## Selected Projects
 - **Traffic-Aware Restaurant Recommender** · Python, Google Maps API  
   Re-ranks POIs by live travel time. *22% lower avg ETA* on 150 trips.  
-  Code: https://github.com/yourusername/traffic-restaurant · [1-page](https://yourusername.github.io/assets/reco-brief.pdf)
+  Code: https://github.com/richardyeh7/richardproject
 
 - **Chest X-ray Pneumonia Classifier (ResNet)** · PyTorch  
   *90.9% accuracy / 93% F1*. Augmentation, early stopping, Grad-CAM.  
