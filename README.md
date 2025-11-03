@@ -3,7 +3,7 @@
 
 **Prospective Graduate Student** 
 
-- 📄 CV: [Ricahrd CV.pdf](https://richardyeh7.github.io/assets/Richard CV.pdf)
+- 📄 CV: [Ricahrd CV.pdf](https://richardyeh7.github.io/assets/RichardCV.pdf)
 
 ## Projects
 - **Traffic Based Restaurant Recommender** · HTML, CSS, JavaScript, Google Maps API  
