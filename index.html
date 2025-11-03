@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Richard Yeh — Portfolio</title>
+  <meta name="description" content="Graduate admissions portfolio of Richard Yeh — Machine Learning, Data Systems, and Applied AI." />
+  <style>
+    body { font-family: system-ui, -apple-system, sans-serif; background:#0b0c0f; color:#e8eaf0; margin:0; padding:0; line-height:1.5; }
+    a { color:#7aa2ff; text-decoration:none; }
+    a:hover { text-decoration:underline; }
+    .wrap { max-width:850px; margin:40px auto; padding:0 20px; }
+    h1 { font-size:1.8em; }
+    .btn { display:inline-block; padding:8px 12px; border:1px solid #232735; border-radius:8px; background:#12141a; margin-top:8px; }
+    .card { background:#12141a; border:1px solid #232735; border-radius:12px; padding:16px; margin-top:16px; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Richard Yeh</h1>
+    <p>Prospective Graduate Student — Machine Learning and Data Systems.</p>
+    <a href="assets/Richard_CV.pdf" class="btn" target="_blank">📄 Download CV</a>
+
+    <h2>Projects</h2>
+
+    <div class="card">
+      <h3>Traffic-Aware Restaurant Recommender</h3>
+      <p><em>Team of 3 • 2024 • Python, Google Maps API</em></p>
+      <p>Re-ranks restaurants by live travel time. Reduced average ETA of top-5 picks by <strong>22%</strong> over 150 trips.</p>
+      <p><a href="https://github.com/richardyeh7/traffic-restaurant" target="_blank">View Code</a> · <a href="assets/reco-brief.pdf" target="_blank">1-page summary</a></p>
+    </div>
+
+    <div class="card">
+      <h3>Chest X-ray Pneumonia Classifier (ResNet)</h3>
+      <p><em>Individual • 2024 • Python, PyTorch</em></p>
+      <p>Trained ResNet on Guangzhou CXR dataset — <strong>90.9% accuracy</strong>, <strong>93% F1</strong>. Implemented augmentation, early stopping, and Grad-CAM for interpretability.</p>
+      <p><a href="https://github.com/richardyeh7/cxr-resnet" target="_blank">View Code</a> · <a href="assets/cxr-brief.pdf" target="_blank">1-page summary</a></p>
+    </div>
+
+    <h2>Skills & Coursework</h2>
+    <p>Python (PyTorch, sklearn), C++, R (data.table), SQL, Git, LaTeX.<br>Coursework: Machine Learning, Deep Learning, Algorithms, Econometrics, Databases.</p>
+
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:richard.yeh@example.com">richard.yeh@example.com</a> · GitHub: <a href="https://github.com/richardyeh7">@richardyeh7</a> · LinkedIn: <a href="https://linkedin.com/in/richardyeh7">/in/richardyeh7</a></p>
+
+    <footer style="margin-top:40px; color:#a8b3cf; font-size:0.9em;">© <span id="y"></span> Richard Yeh</footer>
+  </div>
+  <script>document.getElementById('y').textContent = new Date().getFullYear();</script>
+</body>
+</html>
